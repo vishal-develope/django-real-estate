@@ -1,0 +1,4 @@
+what is logger file and how it work ?
+what is abstract user ?
+what is abstract baseuser ?
+What is UUID in django ?
